@@ -1,0 +1,7 @@
+{
+  "uuid": "scroll-speed@hemanth",
+  "name": "Scroll Speed",
+  "description": "Adds a mouse scroll speed slider to Quick Settings (needs the scroll-speedd service). Click the mouse icon to reset to 1x.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}

@@ -1,0 +1,10 @@
+.scroll-speed-label {
+  min-width: 4.5em;
+  text-align: right;
+  font-feature-settings: "tnum";
+  padding-right: 6px;
+}
+
+.scroll-speed-label.off {
+  color: #e66100;
+}
